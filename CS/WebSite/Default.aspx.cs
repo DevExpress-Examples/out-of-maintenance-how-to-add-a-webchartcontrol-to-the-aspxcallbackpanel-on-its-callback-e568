@@ -1,8 +1,7 @@
 using System;
 using DevExpress.XtraCharts;
 using DevExpress.XtraCharts.Web;
-using DevExpress.Web.ASPxClasses;
-using DevExpress.Web.ASPxCallbackPanel;
+using DevExpress.Web;
 // ...
 
 public partial class _Default : System.Web.UI.Page {

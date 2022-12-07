@@ -2,8 +2,7 @@ Imports Microsoft.VisualBasic
 Imports System
 Imports DevExpress.XtraCharts
 Imports DevExpress.XtraCharts.Web
-Imports DevExpress.Web.ASPxClasses
-Imports DevExpress.Web.ASPxCallbackPanel
+Imports DevExpress.Web
 ' ...
 
 Partial Public Class _Default
